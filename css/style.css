@@ -34,3 +34,7 @@ fieldset {
   border: 1px #64AAB2 solid;
   border-radius: .5em;
 }
+code {
+  color: #E4B842;
+  font-family: 'Source Code Pro',monospace;
+}
